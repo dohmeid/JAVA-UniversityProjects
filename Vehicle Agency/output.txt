@@ -1,0 +1,9 @@
+
+ *************** HERE ARE THE DATA AFTER SORTING *************** + 
+ModelName: Aqua, ModelNo: ES500, Brand: Toyota, Owner: Nader, EngineType: Hybrid, TankSize: 36.0, FuelConsumption: 40.0Movable distance: 1440.0, CostFor100Km:  13.075000000000001numberOfSeats=5, airConditionON=false
+ModelName: Camley, ModelNo: E100, Brand: Toyota, Owner: Ahmad, EngineType: Gasoline, TankSize: 70.0, FuelConsumption: 15.15Movable distance: 1060.5, CostFor100Km:  34.521452145214525numberOfSeats=5, airConditionON=false
+ModelName: Sienna, ModelNo: A4, Brand: Toyota, Owner: Malik, EngineType: Gasoline, TankSize: 75.0, FuelConsumption: 22.39488Movable distance: 1679.616, CostFor100Km:  19.4612935337601numberOfSeats=8, airConditionOn=true, hasAutoDoors=false
+ModelName: Odyssey, ModelNo: S500, Brand: Honda, Owner: Khaled, EngineType: Diesel, TankSize: 56.0, FuelConsumption: 11.0Movable distance: 616.0, CostFor100Km:  36.54545454545455numberOfSeats=8, airConditionOn=false, hasAutoDoors=false
+ModelName: Ridgeline, ModelNo: DUG700, Brand: Honda, Owner: Waleed, EngineType: Diesel, TankSize: 83.279, FuelConsumption: 7.23Movable distance: 602.10717, CostFor100Km:  55.60165975103733airConditionOn=false, power=250, numberOfSeats=5
+ModelName: Tundra, ModelNo: EDGE500, Brand: Toyota, Owner: Sami, EngineType: Diesel, TankSize: 100.0, FuelConsumption: 6.76Movable distance: 676.0, CostFor100Km:  59.46745562130177airConditionOn=false, power=310, numberOfSeats=5
+ModelName: Presage, ModelNo: BX5000, Brand: Nissan, Owner: Shaher, EngineType: Gasoline, TankSize: 60.0, FuelConsumption: 7.0Movable distance: 420.0, CostFor100Km:  74.71428571428572numberOfSeats=7, airConditionOn=false, hasAutoDoors=false
